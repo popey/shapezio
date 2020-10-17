@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=shapez.io
+Comment=An open source base building game inspired by factorio
+Icon=${SNAP}/meta/gui/shapezio.png
+Exec=shapezio
+Terminal=false
+Categories=Game
